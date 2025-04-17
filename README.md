@@ -30,20 +30,22 @@ Dự đoán xác suất vỡ nợ của một khoản vay mới dựa trên các
 
 ---
 
-## 🎯 Biến mục tiêu (`target`)
-
-Xác định trạng thái khoản vay:
-
-- `0`: Không bị vỡ nợ (người vay trả nợ đúng hạn)  
-- `1`: Bị vỡ nợ (người vay không trả nợ đúng hạn)
-
----
-
-## 🔑 Các biến chính
-
+🔑 Các biến chính
 - `age`: Tuổi của người vay  
 - `income`: Thu nhập hàng năm  
 - `loan_amount`: Số tiền vay  
 - `gender`: Giới tính  
 - `occupation`: Nghề nghiệp  
 - `target`: Trạng thái khoản vay (`0`: không vỡ nợ, `1`: vỡ nợ)
+- 
+
+🎯 Biến mục tiêu (`target`)
+
+Xác định trạng thái khoản vay:
+
+- `0`: Không bị vỡ nợ (người vay trả nợ đúng hạn)  
+- `1`: Bị vỡ nợ (người vay không trả nợ đúng hạn)
+
+
+
+
