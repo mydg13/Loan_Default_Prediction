@@ -28,8 +28,6 @@ Dự đoán xác suất vỡ nợ của một khoản vay mới dựa trên các
 | `grade` | Xếp hạng tín dụng (ví dụ: `"A"`, `"B"`, `"C"`, `"D"`) |
 | `member_id` | ID thành viên |
 
----
-
 🔑 Các biến chính
 - `age`: Tuổi của người vay  
 - `income`: Thu nhập hàng năm  
@@ -46,6 +44,6 @@ Xác định trạng thái khoản vay:
 - `0`: Không bị vỡ nợ (người vay trả nợ đúng hạn)  
 - `1`: Bị vỡ nợ (người vay không trả nợ đúng hạn)
 
-
+---
 
 
