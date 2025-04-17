@@ -46,7 +46,7 @@ Dự đoán xác suất vỡ nợ của một khoản vay mới dựa trên các
 
 ## Các Bước Thực Hiện 
 - Thu Thập Dữ liệu 
-  ◦ Tạo dữ liệu mẫu ban đầu. 
+  + Tạo dữ liệu mẫu ban đầu. 
   ◦ Tạo thêm dữ liệu mẫu với các đặc trưng mới. 
   ◦ Kết hợp dữ liệu mẫu ban đầu và dữ liệu mới
 
