@@ -47,26 +47,26 @@ Dự đoán xác suất vỡ nợ của một khoản vay mới dựa trên các
 ## Các Bước Thực Hiện 
 - Thu Thập Dữ liệu 
   + Tạo dữ liệu mẫu ban đầu. 
-  ◦ Tạo thêm dữ liệu mẫu với các đặc trưng mới. 
-  ◦ Kết hợp dữ liệu mẫu ban đầu và dữ liệu mới
+  + Tạo thêm dữ liệu mẫu với các đặc trưng mới. 
+  + Kết hợp dữ liệu mẫu ban đầu và dữ liệu mới
 
 - Tiền Xử Lý Dữ Liệu 
-  ◦ Xử lý các giá trị thiếu. 
-  ◦ Tạo các biến mới. 
-  ◦ Mã hóa các biến phân loại. 
-  ◦ Chuẩn hóa các biến số.
+  + Xử lý các giá trị thiếu. 
+  + Tạo các biến mới. 
+  + Mã hóa các biến phân loại. 
+  + Chuẩn hóa các biến số.
 
 - Tạo và Huấn Luyện Mô Hình 
-  ◦ Chia dữ liệu thành tập huấn luyện và tập kiểm tra. 
-  ◦ Tạo mô hình XGBoost với pipeline. 
-  ◦ Huấn luyện mô hình.
+  + Chia dữ liệu thành tập huấn luyện và tập kiểm tra. 
+  + Tạo mô hình XGBoost với pipeline. 
+  + Huấn luyện mô hình.
 
 - Đánh Giá Mô Hình 
-  ◦ Dự đoán trên tập kiểm tra. 
-  ◦ Đánh giá mô hình bằng độ chính xác (accuracy).
+  + Dự đoán trên tập kiểm tra. 
+  + Đánh giá mô hình bằng độ chính xác (accuracy).
 
 - Xây Dựng API 
-  ◦ Sử dụng Flask để xây dựng API. 
-  ◦ Tạo endpoint /predict để dự đoán A-Score cho khách hàng mới
+  + Sử dụng Flask để xây dựng API. 
+  + Tạo endpoint /predict để dự đoán A-Score cho khách hàng mới
 
 
