@@ -46,4 +46,10 @@ Xác định trạng thái khoản vay:
 
 ---
 
+## Các Bước Thực Hiện 
+◦ Thu thập dữ liệu. 
+◦ Tiền xử lý dữ liệu. 
+◦ Tạo và huấn luyện mô hình. 
+◦ Đánh giá mô hình. 
+◦ Xây dựng API để dự đoán.
 
